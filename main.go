@@ -1,7 +1,7 @@
 package main
 import (
 		"fmt"
-		"service"
+		"github.com/samratjha96/Go-Microservice/service"
         )
 var appName = "accountservice"
 func main() {
